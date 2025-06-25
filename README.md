@@ -1,2 +1,2 @@
 # Clash Royal Botting
- these are some scripts i used for clash botting. im not sure what works and what doesnt
+this stuff worked around 2022, using emulator and IDLE(Python 3.12 64-bit)
